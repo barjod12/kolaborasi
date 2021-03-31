@@ -1,3 +1,5 @@
 # kolaborasi
 
-Halo nama saya Ainan
+- Halo nama saya Ainan
+- Hallo nama saya edo
+
